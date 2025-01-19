@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "sample -express",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "sample express server",
   "dependencies": {
     "express": "^4.21.2"
   }
